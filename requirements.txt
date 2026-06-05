@@ -1,0 +1,5 @@
+pandas
+openpyxl
+ipywidgets
+pycountry
+voila
